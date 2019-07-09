@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
 
         if(supportActionBar != null){
             supportActionBar?.title = "Google Pixel"
+//            viewsg
         }
     }
 }
